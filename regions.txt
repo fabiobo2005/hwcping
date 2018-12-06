@@ -1,0 +1,6 @@
+na-mexico-1
+sa-brazil-1
+sa-chile-1
+sa-argentina-1
+sa-peru-1
+na-usa-1
